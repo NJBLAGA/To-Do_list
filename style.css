@@ -1,0 +1,48 @@
+    * {
+        margin: 0;
+    }
+    
+    #form {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+    }
+    
+    label {
+        margin-bottom: 1rem;
+    }
+    
+    input {
+        margin-bottom: 1rem;
+    }
+    
+    #submit-button {
+        background-color: green;
+    }
+    
+    #dom-list {
+        margin-bottom: 3rem;
+        margin-top: 1rem;
+    }
+    
+    #text1-input {
+        text-align: center;
+    }
+    
+    #text-input {
+        text-align: center;
+    }
+    
+    .strike-out {
+        text-decoration: line-through;
+    }
+    
+    li {
+        cursor: pointer;
+    }
+    
+    #error {
+        color: red;
+        font-weight: bolder;
+        margin-left: 18%;
+    }
